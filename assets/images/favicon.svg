@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2595" data-name="Rectangle 2595" width="14.467" height="6.224" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-favicon">
+      <rect width="16" height="16"/>
+    </clipPath>
+  </defs>
+  <g id="favicon" clip-path="url(#clip-favicon)">
+    <rect width="16" height="16" fill="#fff"/>
+    <g id="landing_img_logo" transform="translate(1 5)">
+      <path id="Path_10800" data-name="Path 10800" d="M72.612,10.056v4.791h1.5V10.105l-1.5-1.347Z" transform="translate(-71.485 -8.622)" fill="#003879"/>
+      <rect id="Rectangle_2593" data-name="Rectangle 2593" width="1.008" height="1.32" fill="#003879"/>
+      <path id="Path_10801" data-name="Path 10801" d="M73.861,0l1.476,1.32h1.076V0Z" transform="translate(-72.715 0)" fill="#003879"/>
+      <g id="Group_3802" data-name="Group 3802">
+        <g id="Group_3801" data-name="Group 3801" clip-path="url(#clip-path)">
+          <path id="Path_10802" data-name="Path 10802" d="M282.7,0V6.2a2.408,2.408,0,0,1-.995-.418,1.825,1.825,0,0,1-.635-1.56V0Z" transform="translate(-276.695)" fill="#003879"/>
+          <path id="Path_10803" data-name="Path 10803" d="M461.982,0V4.226a1.824,1.824,0,0,1-.635,1.56,2.409,2.409,0,0,1-.994.418V0Z" transform="translate(-453.189)" fill="#003879"/>
+          <rect id="Rectangle_2594" data-name="Rectangle 2594" width="0.912" height="2.117" transform="translate(6.132 4.107)" fill="#003879"/>
+          <path id="Path_10804" data-name="Path 10804" d="M598.045,13.971l.741,2.525-.936,3.482H596.3l1.665-6.007Z" transform="translate(-587.019 -13.753)" fill="#003879"/>
+          <path id="Path_10805" data-name="Path 10805" d="M712.87,0l1.752,6.224h-1.584l-1.185-4.063L711.223,0Z" transform="translate(-700.156)" fill="#003879"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
